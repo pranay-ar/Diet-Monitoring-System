@@ -8,8 +8,6 @@ This repository stores the code required to identify the food items in the preli
 
 The model is built on a standard LeNet CNN architecture with over a dataset of 1100 images.
 
-![](model.png)
-
 ### Project Execution
 
 1. Open the `Terminal`.
