@@ -4,7 +4,6 @@ The project aims to create a datamap of the daily food intake of an animal and a
 
 This repository stores the code required to identify the food items in the preliminary stage of the tracking process along with the working code for the Arduino which handles the energy tracking process. Since we are currently planning to develop the project further, the entire concept for the project cannot be shared here. 
 
-
 ### Architecture
 
 The model is built on a standard LeNet CNN architecture with over a dataset of 1100 images.
